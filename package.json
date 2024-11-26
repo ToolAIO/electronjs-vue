@@ -22,6 +22,7 @@
     "@vueuse/electron": "^11.1.0",
     "ant-design-vue": "^4.2.5",
     "vue-router": "^4.4.5",
+    "vue-sidebar-menu": "^5.4.2",
     "vue3-toastify": "^0.1.14"
   },
   "devDependencies": {
